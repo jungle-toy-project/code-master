@@ -1,2 +1,2 @@
-# code-master
-code master가 되기 위한 코딩테스트 연습 사이트 toy project
+# Code master
+code master 가 되기위한 코딩테스트 사이트
